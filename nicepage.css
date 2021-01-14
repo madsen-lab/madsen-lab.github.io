@@ -31206,12 +31206,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-logo-image-1 {
-  max-width: 64px;
-  max-height: 64px;
+  max-width: 228px;
+  max-height: 228px;
 }
 
 .u-header .u-menu-1 {
-  margin: -32px 60px 45px auto;
+  margin: -56px 60px 60px auto;
 }
 
 .u-header .u-nav-2 {
@@ -31244,6 +31244,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 74px;
   min-width: 42px;
   white-space: nowrap;
+  animation-duration: 1000ms;
   margin: 44px auto;
 }
 
