@@ -688,11 +688,19 @@
 }
 
 .u-section-3 .u-list-1 {
-  min-height: 748px;
-  grid-gap: 10px 10px;
-  grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
   grid-template-rows: auto;
   margin-top: 16px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-gap: 10px 10px;
+  min-height: 1506px;
+}
+
+.u-section-3 .u-list-item-1 {
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -717,6 +725,11 @@
   margin: 20px 0 0;
 }
 
+.u-section-3 .u-list-item-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .u-section-3 .u-container-layout-2 {
   padding: 30px;
 }
@@ -724,7 +737,7 @@
 .u-section-3 .u-image-2 {
   width: 220px;
   height: 220px;
-  background-image: url("images/gabija-kavaliauskaite1.jpg");
+  background-image: url("images/Unknown_male.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   margin: 0 auto;
@@ -738,6 +751,11 @@
   margin: 20px 0 0;
 }
 
+.u-section-3 .u-list-item-3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .u-section-3 .u-container-layout-3 {
   padding: 30px;
 }
@@ -745,7 +763,7 @@
 .u-section-3 .u-image-3 {
   width: 220px;
   height: 220px;
-  background-image: url("images/Isabel_SusanneMandrupLab1.jpg");
+  background-image: url("images/gabija-kavaliauskaite1.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   margin: 0 auto;
@@ -759,6 +777,11 @@
   margin: 20px 0 0;
 }
 
+.u-section-3 .u-list-item-4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .u-section-3 .u-container-layout-4 {
   padding: 30px;
 }
@@ -766,7 +789,7 @@
 .u-section-3 .u-image-4 {
   width: 220px;
   height: 220px;
-  background-image: url("images/Atlasportrait_29june_2july2019_Hindsgavl_photoHansKristianHannibal-Bach_P6300651-Version2.jpg");
+  background-image: url("images/img_0155.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   margin: 0 auto;
@@ -780,6 +803,11 @@
   margin: 20px 0 0;
 }
 
+.u-section-3 .u-list-item-5 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .u-section-3 .u-container-layout-5 {
   padding: 30px;
 }
@@ -787,7 +815,7 @@
 .u-section-3 .u-image-5 {
   width: 220px;
   height: 220px;
-  background-image: url("images/IMG_85981.JPG");
+  background-image: url("images/Unknown_female.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   margin: 0 auto;
@@ -801,6 +829,11 @@
   margin: 20px 0 0;
 }
 
+.u-section-3 .u-list-item-6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .u-section-3 .u-container-layout-6 {
   padding: 30px;
 }
@@ -808,7 +841,7 @@
 .u-section-3 .u-image-6 {
   width: 220px;
   height: 220px;
-  background-image: url("images/Untitled.png");
+  background-image: url("images/Atlasportrait_29june_2july2019_Hindsgavl_photoHansKristianHannibal-Bach_P6300651-Version2.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   margin: 0 auto;
@@ -822,7 +855,33 @@
   margin: 20px 0 0;
 }
 
+.u-section-3 .u-list-item-7 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-container-layout-7 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-7 {
+  width: 220px;
+  height: 220px;
+  background-image: url("images/Isabel_SusanneMandrupLab1.jpg");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+  margin: 0 auto;
+}
+
 .u-section-3 .u-text-15 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-text-16 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-text-17 {
   margin: 16px auto 0;
 }
 
@@ -845,12 +904,10 @@
   }
 
   .u-section-3 .u-list-1 {
-    min-height: 617px;
-    grid-template-columns: repeat(3, calc(33.333333333333336% - 7px));
     height: auto;
   }
 
-  .u-section-3 .u-text-15 {
+  .u-section-3 .u-text-17 {
     width: auto;
   }
 
@@ -865,12 +922,11 @@
     min-height: 1439px;
   }
 
-  .u-section-3 .u-list-1 {
-    min-height: 699px;
-    grid-template-columns: repeat(2, calc(50% - 5.25px));
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   }
 
-  .u-section-3 .u-text-15 {
+  .u-section-3 .u-text-17 {
     margin-left: 244px;
   }
 
@@ -880,10 +936,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-3 .u-list-1 {
-    grid-template-columns: repeat(2, calc(50% - 5px));
-  }
-
   .u-section-3 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
@@ -914,7 +966,12 @@
     padding-right: 10px;
   }
 
-  .u-section-3 .u-text-15 {
+  .u-section-3 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-17 {
     margin-left: auto;
   }
 
@@ -929,11 +986,11 @@
     min-height: 2408px;
   }
 
-  .u-section-3 .u-list-1 {
+  .u-section-3 .u-repeater-1 {
     grid-template-columns: 100%;
   }
 
-  .u-section-3 .u-text-15 {
+  .u-section-3 .u-text-17 {
     margin-top: -339px;
   }
 
@@ -951,7 +1008,7 @@
 }
 
 .u-section-4 .u-table-1 {
-  width: 597px;
+  width: 618px;
   margin: 16px auto 60px;
 }
 
@@ -998,7 +1055,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 532px;
-  background-image: url("images/download.png");
+  background-image: url("images/download-13.png");
   background-position: 50% 50%;
 }
 
