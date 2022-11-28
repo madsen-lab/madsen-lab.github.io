@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/alumni.html",
+    "items": [
+      "/Alumni/Jacob Fredegaard Hansen.html",
+      "/Alumni/KariFrafjord.html",
+      "/Alumni/TerazaFaitova.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/team.html",
+    "items": [
+      "/People/AndreasMoeller.html",
+      "/People/BoVagnerHansen.html",
+      "/People/CecilieCargnelli.html",
+      "/People/GabijaKav.html",
+      "/People/JesperMadsen.html",
+      "/People/JonasLemvig.html"
+    ]
+  }
+]

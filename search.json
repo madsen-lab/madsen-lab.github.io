@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Our main research interests include:\n\nModeling and understanding mechanisms underlying transcriptional control.\nDissecting disease mechanisms in metabolic diseases including type 2 diabetes and metabolically-associated liver disease.\n\nTo achieve those goals, we are engaged in large international research centers, where we develop and apply state-of-the-art statistical methods for analysis of primarily transcriptomic and epigenomic datasets."
+  },
+  {
+    "objectID": "alumni.html",
+    "href": "alumni.html",
+    "title": "Alumni",
+    "section": "",
+    "text": "Name\n\n\nPosition\n\n\nDate\n\n\n\n\n\n\nJacob Fredegaard Hansen\n\n\nMSc student\n\n\nJun 8, 2022\n\n\n\n\nKari Østerli Frajord\n\n\nCo-supervised PhD student\n\n\nMay 17, 2022\n\n\n\n\nTereza Faitová\n\n\nMSc student\n\n\nJun 24, 2020\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Jesper Grud Skat Madsen",
+    "section": "",
+    "text": "Jesper Grud Skat Madsen"
+  },
+  {
+    "objectID": "People/AndreasMoeller.html",
+    "href": "People/AndreasMoeller.html",
+    "title": "Andreas Fønss Møller",
+    "section": "",
+    "text": "I earned my MSc in Omics double degree from University of Southern Denmark and University of Chinese Academy of Sciences in 2019. Currently I am a PhD student at the department of Biochemistry and Molecular Biology at the University of Southern Denmark.\nIn my projects, I study gene regulatory circuitry governing cell fate decision making and maintenance of cellular identity, using state-of-the-art machine learning models."
+  },
+  {
+    "objectID": "People/BoVagnerHansen.html",
+    "href": "People/BoVagnerHansen.html",
+    "title": "Bo Vagner Hansen",
+    "section": "",
+    "text": "I earned a MSc in mathematics from the University of Copenhagen, 2012 and a MSc in computational biomedicine from the University of Southern Denmark, 2022. I have previously worked with single cell RNA-seq and ATAC-seq in a mouse NASH model. I am currently employed as a research assistant in MadLab and work on gene regulatory networks and artificial intelligence. More specifically I aim to develop a deep learning model of the human and mouse liver with the goal of designing cell type specific synthetic enhancers."
+  },
+  {
+    "objectID": "People/CecilieCargnelli.html",
+    "href": "People/CecilieCargnelli.html",
+    "title": "Cecilie Bøgh Cargnelli",
+    "section": "",
+    "text": "I earned an M.Sc. in Computational Biomedicine from the University of Southern Denmark in 2021. Currently, I am a Ph.D. student at the Department of Mathematics and Computer Science at the University of Southern Denmark, where I am working on the Islet Cartography project in the MadLab group.\nThe Islet Cartography project aims at drawing high confidence and robust maps of the transcriptome, epigenome and electrophysical state of cell types and subtypes in islets of Langerhans from type 2 diabetics and non-diabetics. My focus of the project is on identifying an optimal end-to-end pipeline for integration in scRNA-seq for creating the maps of the transcriptome and electrophysiological properties, which I will then use for computational deconvolution of bulk RNA-seq. My motivation comes from the great significance this project holds in deepening our understanding of the pathogenesis of type 2 diabetes, facilitating discovery of new putative targets for drug development, as well as paving the way for generating deep atlases in other biological contexts."
+  },
+  {
+    "objectID": "People/GabijaKav.html",
+    "href": "People/GabijaKav.html",
+    "title": "Gabija Kavaliauskaite",
+    "section": "",
+    "text": "I earned MSc in Computational Biomedicine from the University of Southern Denmark in 2021. Currently, I am a PhD Fellow in Computational Biomedicine at the Department of Biochemistry and Molecular Biology at the University of Southern Denmark.\nOn my project with the Center for Functional Genomics and Tissue Plasticity (ATLAS), I study the control of cellular identity based on high-throughput genomics and transcriptomics by applying statistical and machine learning-based models. We aim to address some of the major analytical challenges faced in the single-cell transcriptomics by developing the data adaptive approaches to identify low quality cells, as well as using the mathematical models to identify apoptotic cells."
+  },
+  {
+    "objectID": "People/JesperMadsen.html",
+    "href": "People/JesperMadsen.html",
+    "title": "Jesper Grud Skat Madsen",
+    "section": "",
+    "text": "I earned a PhD in Biochemistry and Molecular Biology from the University of Southern Denmark in 2016. Currently, I am an Assistant Professor at the Department of Mathematics and Computer Science at the University of Southern Denmark, where I am the principal investigator in MadLab.\nMy training in molecular biology has given me a ‘sense for biology’ and a comprehesive understanding of the biases and possibilities of experimental techniques. This, combined with a flair for statistical programming, gives me a strong foundation for navigating the space between biology, computer science and mathematics in a manner that produces tangible scientific progress.\nI believe that future scientific breakthrough can be made through collaborative, interdisciplinary, creativity and open science. For that reason, we strive to be involved in international research centers, where researchers with different competences collaborate. We thrive to enroll students with different backgrounds ranging from physics to medicine, and we active work towards a working culture that focuses on creativity, ideas and progress rather than long working hours and strict deliverables."
+  },
+  {
+    "objectID": "People/JonasLemvig.html",
+    "href": "People/JonasLemvig.html",
+    "title": "Jonas Lemvig",
+    "section": "",
+    "text": "I earned an MSc in Computational Biomedicine from the University of Southern Denmark in 2022 working with metabolomics workflow optimization at the Laboratory of Molecular Metabolism and Metabolomics. Currently, I am a PhD student at the Department of Mathematics and Computer Science at the University of Southern Denmark working on the Islet Cartography project in MadLab.\nThe Islet Cartography project is aiming to provide a multi-layered map of the islets of Langerhans combining the transcriptome, epigenome, and electrophysical state of the cell types in the islets. My focus in the project is the epigenome layer, studying the imputation and integration of single-cell ATAC-seq data as well as deconvoluting bulk ATAC-seq data. This project will deepen our understanding of the pathogenesis of type-2-diabetes and facilitate the discovery of new targets for drug development."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Human Gene Regulatory Map\nMadLab is a partner in the Human Gene Regulation Map (HGRM), a part of the new Novo Nordisk Foundation Center for Genomic Mechanisms of Disease (NNFC). The aim of HGRM is to build comprehensive maps of gene regulation in the human genome as a resource for uncovering biological mechanisms on common genetic diseases, with an initial focus on cell types relevant to cardiometabolic diseases including type 2 diabetes. We aim to combine recent advances in genomics, molecular biology, single-cell analysis, and stem cell models with approaches in computational biology and machine learning to identify fundamental rules of gene regulation.\n\n\nATLAS\nMabLab is a partner in the Center for Functional Genomics and Tissue Plasticity (ATLAS). The aim of ATLAS is to obtain systems-level, mechanistic and cell type-resolved understanding of adipose and hepatic tissue plasticity in response to diet-induced obesity and regression in mouse models; and to translate this for in-depth understanding of the functional changes in human adipose and hepatic tissues in response to severe obesity and reversal. The center applies a combination of functional genomics approaches, mouse models, proteomics, in vivo targeting, computational biology, and clinical studies."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Authors\n        \n         \n          Year\n        \n         \n          Journal\n        \n         \n          href\n        \n     \n  \n    \n      \n      \n    \n\n\n  \n    Lipolysis regulates major transcriptional programs in brown adipocytes\n    L.K. Markussen, E.A. Rondini, O.S. Johansen, J.G.S. Madsen, E.G. Sustarsic, A-B. Marcher, J.B. Hansen, Z. Gerhart-Hines, J.G. Granneman, S. Mandrup\n    Nature Communications (2022)\n  \n  \n  \n    Glucolipotoxicity promotes the capacity of the glycerolipid/NEFA cycle supporting the secretory response of pancreatic beta cells\n    L. Oberhauser, C. Jiménez-Sánchez, J.G.S. Madsen, D. Duhamel, S. Mandrup, T. Brun, P. Maechler\n    Diabetologia (2022)\n  \n  \n  \n    Analysis of Enhancers and Transcriptional Networks in Thermogenic Adipocytes\n    A. Loft, M.W. Andersen, J.G.S. Madsen, S. Mandrup\n    Methods in Molecular Biology (2022)\n  \n  \n  \n    Isolation of nuclei from mouse white adipose tissues for single-nucleus genomics\n    E.L. Van Hauwaert, E. Gammelmark, A.K. Sarvari, L. Larsen, R. Nielsen, J.G.S. Madsen, S. Mandrup\n    STAR Protocols (2021)\n  \n  \n  \n    Plasticity of Epididymal Adipose Tissue in Response to Diet-Induced Obesity at Single-Nucleus Resolution\n    A.K. Sarvari*, E.L. Van Hauwaert*, L.K. Markussen, E. Gammelmark, R. Nielsen, J.G.S. Madsen#, S. Mandrup#\n    Cell Metabolism (2020)\n  \n  \n  \n    AMPK profiling in rodent and human pancreatic beta-cells under nutrient-rich metabolic stress\n    T. Brun, C. Jiménez-Sánchez, J.G.S. Madsen, N. Hadadi, D. Duhamel, C. Bartley, L. Oberhauser, M. Trajkovski, S. Mandrup, P. Maechler\n    International Journal of Molecular Sciences (2020)\n  \n  \n  \n    Highly connected enhancer communities’ control adipogenesis in human mesenchymal stem cells\n    J.G.S. Madsen, M.S. Madsen*, A. Rauch*, S. Traynor*, E.L. Van Hauwaert, A.K. Haakonsson, B.M. Javierre, M. Larsen, P. Fraser, S. Mandrup\n    Nature Genetics (2020)\n  \n  \n  \n    Osteogenesis depends on commissioning of a network of stem cell transcription factors that act as repressors of adipogenesis\n    A. Rauch, A.K. Haakonsson, J.G.S. Madsen, M. Larsen, R. Nielsen, B.D. Larsen, C. Wiwie, R. Röttger, J. Baumbach, M.R. Madsen, E.L. Van Hauwaert, M. Kassem, S.Mandrup\n    Nature Genetics (2019)\n  \n  \n  \n    Integrated analysis of motif activity and gene expression changes of transcription factors\n    J.G.S. Madsen*, A. Rauch*, E.L. Van Hauwaert, S.F. Schmidt, M. Winnefeld, S. Mandrup\n    Genome Research (2017)\n  \n  \n  \n    Dynamic rewiring of promoter-anchored chromatin loops during adipocyte differentiation\n    R. Siersbæk*, J.G.S. Madsen*, B.M. Javierre*, R. Nielsen*, E.K. Bagge, J. Cairns, S.W. Wingett, S. Traynor, M. Spivakov, P. Fraser, S. Mandrup\n    Molecular Cell (2017)\n  \n  \n  \n    The KDM5 family is required for activation of pro-proliferative cell cycle genes during adipocyte differentiation\n    A.B. Brier, A. Loft, J.G.S. Madsen, T. Rosengran, R. Nielsen, S.F. Schmidt, Z. Liu, Q. Yan, H. Gronemeyer, S. Mandrup\n    Nucleic Acid Research (2016)\n  \n  \n  \n    Integrative genomics outlines a biphasic glucose re-sponse and a ChREBP-RORγ axis regulating proliferation in β-cells\n    S.F. Schmidt*, J.G.S. Madsen*, K.Ø. Frafjord, L.L.C. Poulsen, S. Salö, M. Boergesen, A. Loft, B.D. Larsen, M.S. Madsen, J.J. Holst, L.T. Dalgaard, S. Mandrup\n    Cell Reports (2016)\n  \n  \n  \n    RNA-Seq and Mass-Spectrometry-based lipidomics reveal extensive changes of glycerolipid pathways in brown adipose tissue in response to cold\n    A.-B. Marcher*, A. Loft*, R. Nielsen, T. Vihervaara, J.G.S. Madsen, M. Sysi-Aho, K. Ekroos, S. Mandrup\n    Cell Reports (2015)\n  \n  \n  \n    Acute TNF-induced repres-sion of cell identity genes is mediated by NFκB-directed redistribution of cofactors from super-enhancers\n    S.F. Schmidt*, B.D. Larsen*, A. Loft, R. Nielsen, J.G.S. Madsen, S. Mandrup\n    Genome Research (2015)\n  \n  \n  \n    iRNA-seq: A novel computational method for genome-wide assessment of acute transcriptional regulation from total RNA-seq data\n    J.G.S. Madsen*, S.F. Schmidt*, B.D. Larsen, A. Loft, R. Nielsen, S. Mandrup\n    Nucleic Acid Research (2015)\n  \n  \n  \n    Browning of human adipocytes requires KLF11 and reprogramming of PPARγ super-enhancers\n    A. Loft, I. Forss*, M.S. Siersbæk*, S.F. Schmidt, A-S. B. Larsen, J.G.S. Madsen, D. Pisani, R. Nielsen, M.M. Aagaard. A. Mathison, M.J. Neville, R. Urrutia, F. Karpe, E.-Z. Amri, S. Mandrup\n    Genes and Development (2015)\n  \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "PhD student\n\n\nMSc in Omics\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nResearch Assistant\n\n\nMSc in Mathematics and Computational Biology\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nM.Sc. in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nMSc in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPrincipal investigator\n\n\nPhD in Molecular Biology and Assistant Professor of Computational Biology.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nMSc in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\nNo matching items"
+  }
+]
