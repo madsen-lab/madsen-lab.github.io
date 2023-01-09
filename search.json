@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Human Gene Regulatory Map\nMadLab is a partner in the Human Gene Regulation Map (HGRM), a part of the new Novo Nordisk Foundation Center for Genomic Mechanisms of Disease (NNFC). The aim of HGRM is to build comprehensive maps of gene regulation in the human genome as a resource for uncovering biological mechanisms on common genetic diseases, with an initial focus on cell types relevant to cardiometabolic diseases including type 2 diabetes. We aim to combine recent advances in genomics, molecular biology, single-cell analysis, and stem cell models with approaches in computational biology and machine learning to identify fundamental rules of gene regulation.\n\n\nATLAS\nMabLab is a partner in the Center for Functional Genomics and Tissue Plasticity (ATLAS). The aim of ATLAS is to obtain systems-level, mechanistic and cell type-resolved understanding of adipose and hepatic tissue plasticity in response to diet-induced obesity and regression in mouse models; and to translate this for in-depth understanding of the functional changes in human adipose and hepatic tissues in response to severe obesity and reversal. The center applies a combination of functional genomics approaches, mouse models, proteomics, in vivo targeting, computational biology, and clinical studies."
-  },
-  {
     "objectID": "alumni.html",
     "href": "alumni.html",
     "title": "Alumni",
@@ -56,6 +49,13 @@
     "text": "I earned MSc in Computational Biomedicine from the University of Southern Denmark in 2021. Currently, I am a PhD Fellow in Computational Biomedicine at the Department of Biochemistry and Molecular Biology at the University of Southern Denmark.\nOn my project with the Center for Functional Genomics and Tissue Plasticity (ATLAS), I study the control of cellular identity based on high-throughput genomics and transcriptomics by applying statistical and machine learning-based models. We aim to address some of the major analytical challenges faced in the single-cell transcriptomics by developing the data adaptive approaches to identify low quality cells, as well as using the mathematical models to identify apoptotic cells."
   },
   {
+    "objectID": "People/JakobVennikeNielsen.html",
+    "href": "People/JakobVennikeNielsen.html",
+    "title": "Jakob Vennike Nielsen",
+    "section": "",
+    "text": "I earned a PhD in Neurobiology from the University of Southern Denmark in 2010.\nCurrently, I am a joint postdoctoral fellow at MadLab and the Mandrup group, Department of Biochemistry and Molecular Biology.\nMy project aims at generating experimental data and computational methods to improve the quality of single-cell/-nucleus RNA-sequencing data focusing on methods to describe the ambient RNA profile and subsequent denoising the transcriptomes of cells or nuclei."
+  },
+  {
     "objectID": "People/JesperMadsen.html",
     "href": "People/JesperMadsen.html",
     "title": "Jesper Grud Skat Madsen",
@@ -70,6 +70,20 @@
     "text": "I earned an MSc in Computational Biomedicine from the University of Southern Denmark in 2022 working with metabolomics workflow optimization at the Laboratory of Molecular Metabolism and Metabolomics. Currently, I am a PhD student at the Department of Mathematics and Computer Science at the University of Southern Denmark working on the Islet Cartography project in MadLab.\nThe Islet Cartography project is aiming to provide a multi-layered map of the islets of Langerhans combining the transcriptome, epigenome, and electrophysical state of the cell types in the islets. My focus in the project is the epigenome layer, studying the imputation and integration of single-cell ATAC-seq data as well as deconvoluting bulk ATAC-seq data. This project will deepen our understanding of the pathogenesis of type-2-diabetes and facilitate the discovery of new targets for drug development."
   },
   {
+    "objectID": "People/RasmusRydbirk.html",
+    "href": "People/RasmusRydbirk.html",
+    "title": "Rasmus Rydbirk",
+    "section": "",
+    "text": "I recieved a PhD in neuroscience from the University of Copenhagen under supervision of Prof. Bente Pakkenberg, PhD Susana Aznar, and PhD Jörg Tost. My PhD had a strong focus on bioinformatic investigations of molecular mechanisms underlying neurodegenerative disorders of the brain. Following my PhD, I did a postdoc with Assoc. Prof. Konstantin Khodosevich at the Biotech Research and Innovation Centre at the University of Copenhagen. Here, I acquired extended knowledge on single-cell RNA-seq bioinformatic methods which remains my current area of interest.\nCurrently, I am involved in two projects: One regards deconvolution of bulk RNA-seq data from fatty tissues and liver biopsies in order to identify patient archetypes and map molecular mechanisms to disease trajectories. The second project concerns analyses of single-nucleus multiome data from fatty tissues and the liver."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Human Gene Regulatory Map\nMadLab is a partner in the Human Gene Regulation Map (HGRM), a part of the new Novo Nordisk Foundation Center for Genomic Mechanisms of Disease (NNFC). The aim of HGRM is to build comprehensive maps of gene regulation in the human genome as a resource for uncovering biological mechanisms on common genetic diseases, with an initial focus on cell types relevant to cardiometabolic diseases including type 2 diabetes. We aim to combine recent advances in genomics, molecular biology, single-cell analysis, and stem cell models with approaches in computational biology and machine learning to identify fundamental rules of gene regulation.\n\n\nATLAS\nMabLab is a partner in the Center for Functional Genomics and Tissue Plasticity (ATLAS). The aim of ATLAS is to obtain systems-level, mechanistic and cell type-resolved understanding of adipose and hepatic tissue plasticity in response to diet-induced obesity and regression in mouse models; and to translate this for in-depth understanding of the functional changes in human adipose and hepatic tissues in response to severe obesity and reversal. The center applies a combination of functional genomics approaches, mouse models, proteomics, in vivo targeting, computational biology, and clinical studies."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -81,13 +95,6 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "PhD student\n\n\nMSc in Omics\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nResearch Assistant\n\n\nMSc in Mathematics and Computational Biology\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nM.Sc. in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nMSc in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPostdoc\n\n\nPhD in Neurobiology.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPrincipal investigator\n\n\nPhD in Molecular Biology and Assistant Professor of Computational Biology.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nMSc in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "People/JakobVennikeNielsen.html",
-    "href": "People/JakobVennikeNielsen.html",
-    "title": "Jakob Vennike Nielsen",
-    "section": "",
-    "text": "I earned a PhD in Neurobiology from the University of Southern Denmark in 2010.\nCurrently, I am a joint postdoctoral fellow at MadLab and the Mandrup group, Department of Biochemistry and Molecular Biology.\nMy project aims at generating experimental data and computational methods to improve the quality of single-cell/-nucleus RNA-sequencing data focusing on methods to describe the ambient RNA profile and subsequent denoising the transcriptomes of cells or nuclei."
+    "text": "PhD student\n\n\nMSc in Omics\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nResearch Assistant\n\n\nMSc in Mathematics and Computational Biology\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nM.Sc. in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nMSc in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPostdoc\n\n\nPhD in Neurobiology.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPrincipal investigator\n\n\nPhD in Molecular Biology and Assistant Professor of Computational Biology.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPhD student\n\n\nMSc in Computational Biomedicine.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\nPostdoc\n\n\nPhD in neuroscience and bioinformatics\n\n\n\n\n \n\n\n\n\nNo matching items"
   }
 ]
