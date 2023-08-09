@@ -2,8 +2,11 @@
   {
     "listing": "/alumni.html",
     "items": [
+      "/Alumni/AmandineAviles.html",
       "/Alumni/Jacob Fredegaard Hansen.html",
+      "/Alumni/JakobVennikeNielsen.html",
       "/Alumni/KariFrafjord.html",
+      "/Alumni/ShadHavalOmerHassan.html",
       "/Alumni/TerazaFaitova.html"
     ]
   },
@@ -18,7 +21,6 @@
       "/People/BoVagnerHansen.html",
       "/People/CecilieCargnelli.html",
       "/People/GabijaKav.html",
-      "/People/JakobVennikeNielsen.html",
       "/People/JesperMadsen.html",
       "/People/JonasLemvig.html",
       "/People/RasmusRydbirk.html"
