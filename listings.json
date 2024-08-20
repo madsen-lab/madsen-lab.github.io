@@ -1,20 +1,5 @@
 [
   {
-    "listing": "/alumni.html",
-    "items": [
-      "/Alumni/AmandineAviles.html",
-      "/Alumni/Jacob Fredegaard Hansen.html",
-      "/Alumni/JakobVennikeNielsen.html",
-      "/Alumni/KariFrafjord.html",
-      "/Alumni/ShadHavalOmerHassan.html",
-      "/Alumni/TerazaFaitova.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
     "listing": "/team.html",
     "items": [
       "/People/AndreasMoeller.html",
@@ -25,5 +10,21 @@
       "/People/JonasLemvig.html",
       "/People/RasmusRydbirk.html"
     ]
+  },
+  {
+    "listing": "/alumni.html",
+    "items": [
+      "/Alumni/AmandineAviles.html",
+      "/Alumni/Jacob Fredegaard Hansen.html",
+      "/Alumni/JakobVennikeNielsen.html",
+      "/Alumni/KariFrafjord.html",
+      "/Alumni/MarilianaLeotta.html",
+      "/Alumni/ShadHavalOmerHassan.html",
+      "/Alumni/TerazaFaitova.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
   }
 ]
